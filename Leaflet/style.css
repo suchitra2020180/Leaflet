@@ -1,0 +1,26 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+html, body, #map {
+    height: 100%;
+    width: 100%;
+  }
+ 
+  
+  .info {
+    padding: 6px 8px;
+    font: 12px/14px Arial, Helvetica, sans-serif;
+    color: white;
+    background: rgba(52,58,64,0.8);
+    box-shadow: 0 0 15px rgba(255,255,255,0.2);
+    border-radius: 5px;
+    text-align: left;
+  }
+  
+  #exportBtn {
+    color: #090ddf;
+    font-weight: bold;
+  }
